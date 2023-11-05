@@ -1,4 +1,4 @@
 notes
 *.out
-test.c
+test*
 main
